@@ -118,6 +118,15 @@
       "title": "Sou MEI, mas emito nota fiscal, posso cadastrar minha loja?",
       "id": 7,
       "similarity": 0.3670750799363983
-    }
+    },
+    {
+      "category": {
+        "name": "parceria"
+      },
+      "content": "Sim! Lojas físicas e outros tipos de negócio, como fabricantes, distribuidores e e-commerces, podem vender no B2W Marketplace desde que o CNPJ esteja habilitado para vender no varejo e atenda aos demais requisitos.",
+      "title": "Não tenho loja virtual. Posso realizar o cadastro mesmo assim?",
+      "id": 8,
+      "similarity": 0.03208972359237717
+    },
   ]
 }
