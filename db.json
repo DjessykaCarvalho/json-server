@@ -29,11 +29,11 @@
     },
     {
       "category": {
-        "name": "parceria"
+        "name": "nota_fiscal"
       },
-      "content": "Sim! Microempreendedores Individuais (MEIs) podem se cadastrar, desde que emitam NF (Nota Fiscal Eletrônica ou Nota Fiscal Avulsa). A NF é obrigatória em todas as transações no B2W Marketplace.",
-      "title": "Sou MEI, mas emito nota fiscal, posso cadastrar minha loja?",
-      "id": 7,
+      "content": "Não, a emissão da nota fiscal para o consumidor final conforme dados informados no pedido é de responsabilidade do lojista. A chave da NF deverá ser informada no Portal Parceiro.\n\nO B2W Marketplace apenas irá emitir notas fiscais de serviço para o lojista parceiro, referente ao uso da plataforma. São duas notas, neste caso: a nota de Serviços de Intermediação de Vendas e outra de Serviços de Informática.\n\nPortanto, o B2W Marketplace presta contas ao seu parceiro, com as notas fiscais de serviço, e o parceiro ao cliente final, emitindo e enviando a nota fiscal do produto.",
+      "title": "A emissão da nota fiscal dos pedidos é feita pela B2W?",
+      "id": 3,
       "similarity": null
     },
     {
