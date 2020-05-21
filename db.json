@@ -128,5 +128,22 @@
       "id": 8,
       "similarity": 0.03208972359237717
     }
+  ],
+  "category": [
+    {
+      "name": "informativo"
+    },
+    {
+      "name": "entrega"
+    },
+    {
+      "name": "parceria"
+    },
+    {
+      "name": "recebimento"
+    },
+    {
+      "name": "nota_fiscal"
+    }
   ]
 }
