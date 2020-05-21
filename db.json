@@ -20,38 +20,11 @@
     },
     {
       "category": {
-        "name": "nota_fiscal"
-      },
-      "content": "Não, a emissão da nota fiscal para o consumidor final conforme dados informados no pedido é de responsabilidade do lojista. A chave da NF deverá ser informada no Portal Parceiro.\n\nO B2W Marketplace apenas irá emitir notas fiscais de serviço para o lojista parceiro, referente ao uso da plataforma. São duas notas, neste caso: a nota de Serviços de Intermediação de Vendas e outra de Serviços de Informática.\n\nPortanto, o B2W Marketplace presta contas ao seu parceiro, com as notas fiscais de serviço, e o parceiro ao cliente final, emitindo e enviando a nota fiscal do produto.",
-      "title": "A emissão da nota fiscal dos pedidos é feita pela B2W?",
-      "id": 3,
-      "similarity": null
-    },
-    {
-      "category": {
-        "name": "entrega"
-      },
-      "content": "Oferecemos aos lojistas o serviço B2W Entrega, em que você utiliza nosso contrato com os Correios. Com ele, a cada pedido será gerada uma etiqueta, que deverá ser impressa e colada na embalagem. Em seguida, você deverá entregar esse pacote na agência de Correios mais próxima e nós cuidaremos do tracking e das ocorrências de entrega a partir daí. O frete será pago pelo consumidor e nós faremos o pagamento ao transportador.\n\nPara produtos que excedem as dimensões máximas dos Correios (cubagem de 200 cm3 e/ou acima de 30 Kg), será necessário o cadastro de uma planilha de frete no Portal Parceiro, levando em consideração os preços praticados pelo seu transportador. Nesses casos, repassaremos o valor do frete a você, para que você realize o pagamento ao transportador.\n\nEm ambos os casos, você só é cobrado pela comissão referente ao pedido (valor do produto + valor do frete).",
-      "title": "Como funciona o frete no B2W Marketplace?",
-      "id": 4,
-      "similarity": null
-    },
-    {
-      "category": {
         "name": "entrega"
       },
       "content": "Para itens dentro das dimensões dos Correios: você imprime a etiqueta gerada no Portal e cola na embalagem. Em seguida você precisa levar o pacote para a agência de Correios mais próxima. A partir desse momento, a B2W se responsabiliza pela entrega.\n\nPara itens fora das dimensões dos Correios: você é responsável por acompanhar todas as fases da entrega. É sua responsabilidade entregar o produto ao transportador (ou alinhar a coleta), informar o código de rastreio no Portal Parceiro e acompanhar a entrega até o cliente final.",
       "title": "A B2W faz as entregas dos pedidos?",
       "id": 5,
-      "similarity": null
-    },
-    {
-      "category": {
-        "name": "parceria"
-      },
-      "content": "Podem se cadastrar empresas de todos os tamanhos, desde que possuam:\n\n- CNPJ ativo e sem restrições\n- CNAE de Varejista\n- Inscrição no Sintegra (exceto MEI, que não é obrigado a ter inscrição estadual)\n- Conta corrente associada ao CNPJ cadastrado para recebimento dos pagamentos\n- Capital Social igual ou superior a R$ 1.000,00\n\nImportante: é obrigatória a emissão da nota fiscal eletrônica ou avulsa para todos os produtos vendidos.\n\nParceiros sem Certidão Negativa de Débitos (CND) terão suas vendas limitadas.",
-      "title": "Requisitos para vender no B2W Marketplace",
-      "id": 6,
       "similarity": null
     },
     {
@@ -70,33 +43,6 @@
       "content": "Sim! Lojas físicas e outros tipos de negócio, como fabricantes, distribuidores e e-commerces, podem vender no B2W Marketplace desde que o CNPJ esteja habilitado para vender no varejo e atenda aos demais requisitos.",
       "title": "Não tenho loja virtual. Posso realizar o cadastro mesmo assim?",
       "id": 8,
-      "similarity": null
-    },
-    {
-      "category": {
-        "name": "parceria"
-      },
-      "content": "Se sua loja é ME, EPP ou superior, é obrigatório possuir o certificado digital (e-CNPJ) para a emissão da Nota Fiscal Eletrônica.\n\nSe sua loja é MEI, o e-CNPJ não é obrigatório, mas é fortemente recomendado.\n\nCom o certificado digital você consegue:\n\n- Emitir Nota Fiscal Eletrônica (caso contrário será necessário emitir as NFs manualmente no site da SEFAZ – somente MEI);\n- Assinar o contrato do B2W Marketplace, aumentando o limite de faturamento de sua loja aqui dentro.\nÉ importante saber que a emissão de NF é obrigatória em todas as vendas realizadas via B2W Marketplace.",
-      "title": "Preciso ter o e-CNPJ?",
-      "id": 9,
-      "similarity": null
-    },
-    {
-      "category": {
-        "name": "informativo"
-      },
-      "content": "ERP é um sistema de gestão integrada que pode concentrar diferentes informações de seu negócio, como estoque, vendas, compras, logística, financeiro, contabilidade, recursos humanos e fiscal.\n\nJá a plataforma de e-commerce é um sistema administrativo onde se gerencia uma loja virtual. Ela controla dados de produtos, estoque, pedidos, podendo trazer relatórios de vendas e facilitando o cadastro das informações.\n\nOs dois sistemas podem trazer informações de seu negócio que se conectam com o marketplace, como os dados de produtos e pedidos. Se você já tiver um ERP ou plataforma de e-commerce parceiros do B2W Marketplace, poderá conectar suas informações transmitindo dados entre elas e mantendo todas atualizadas de forma automática.",
-      "title": "O que é ERP e Plataforma?",
-      "id": 10,
-      "similarity": null
-    },
-    {
-      "category": {
-        "name": "informativo"
-      },
-      "content": "A Inscrição Estadual é fornecida pela Secretaria de Fazenda de cada estado para os contribuintes de ICMS (Imposto sobre Circulação de Mercadorias e prestação de Serviços). É um código numérico que identifica as transações e as comunica para os fiscos estaduais, ou seja, a SEFAZ (Secretaria da Fazenda) e a Receita Federal. É a partir deste registro que as empresas podem emitir notas fiscais para seus clientes.\n\nPara vender no marketplace é obrigatório que o parceiro emita nota fiscal na venda dos produtos para o cliente, por isso, o Sintegra e a Inscrição Estadual são tão importantes. Esta é uma garantia legal, que regulariza a operação, faz com que seja mais transparente e protege o processo de compra e venda.\n\nA Inscrição Estadual é facultativa apenas para MEIs.",
-      "title": "O que é Inscrição Estadual?",
-      "id": 11,
       "similarity": null
     },
     {
@@ -127,6 +73,69 @@
       "title": "Não tenho loja virtual. Posso realizar o cadastro mesmo assim?",
       "id": 8,
       "similarity": 0.03208972359237717
+    },
+    {
+      "category": {
+        "name": "informativo"
+      },
+      "content": "ERP é um sistema de gestão integrada que pode concentrar diferentes informações de seu negócio, como estoque, vendas, compras, logística, financeiro, contabilidade, recursos humanos e fiscal.\n\nJá a plataforma de e-commerce é um sistema administrativo onde se gerencia uma loja virtual. Ela controla dados de produtos, estoque, pedidos, podendo trazer relatórios de vendas e facilitando o cadastro das informações.\n\nOs dois sistemas podem trazer informações de seu negócio que se conectam com o marketplace, como os dados de produtos e pedidos. Se você já tiver um ERP ou plataforma de e-commerce parceiros do B2W Marketplace, poderá conectar suas informações transmitindo dados entre elas e mantendo todas atualizadas de forma automática.",
+      "title": "O que é ERP e Plataforma?",
+      "id": 10,
+      "similarity": 0.030161430800648644
+    },
+    {
+      "category": {
+        "name": "parceria"
+      },
+      "content": "Podem se cadastrar empresas de todos os tamanhos, desde que possuam:\n\n- CNPJ ativo e sem restrições\n- CNAE de Varejista\n- Inscrição no Sintegra (exceto MEI, que não é obrigado a ter inscrição estadual)\n- Conta corrente associada ao CNPJ cadastrado para recebimento dos pagamentos\n- Capital Social igual ou superior a R$ 1.000,00\n\nImportante: é obrigatória a emissão da nota fiscal eletrônica ou avulsa para todos os produtos vendidos.\n\nParceiros sem Certidão Negativa de Débitos (CND) terão suas vendas limitadas.",
+      "title": "Requisitos para vender no B2W Marketplace",
+      "id": 6,
+      "similarity": 0.026702491566815163
+    },
+    {
+      "category": {
+        "name": "recebimento"
+      },
+      "content": "Chamamos de “repasse” o valor a receber pelas suas vendas, descontando a comissão de 16% e possíveis estornos (SAC). O pagamento é feito quinzenalmente de acordo com a regra abaixo:\n\n- Pedidos entregues ao transportador entre os dias 01 e 15: são pagos no primeiro dia do mês seguinte (ou próximo dia útil)\n- Pedidos entregues ao transportador entre os dias 16 e 31: são pagos no dia 16 do mês seguinte (ou próximo dia útil)",
+      "title": "Como recebo o pagamento pelas vendas?",
+      "id": 2,
+      "similarity": 0.013191945228690705
+    },
+    {
+      "category": {
+        "name": "parceria"
+      },
+      "content": "No B2W Marketplace não há taxa de setup, nem mensalidade. Aqui você só é cobrado pelas vendas aprovadas. A taxa de comissão é fixa em 16% sobre o valor total da venda (valor dos produtos + valor do frete). Todos os valores são acompanhados por um extrato no portal.",
+      "title": "Quanto custa a parceria com o B2W Marketplace?",
+      "id": 1,
+      "similarity": 0.0
+    },
+    {
+      "category": {
+        "name": "nota_fiscal"
+      },
+      "content": "Não, a emissão da nota fiscal para o consumidor final conforme dados informados no pedido é de responsabilidade do lojista. A chave da NF deverá ser informada no Portal Parceiro.\n\nO B2W Marketplace apenas irá emitir notas fiscais de serviço para o lojista parceiro, referente ao uso da plataforma. São duas notas, neste caso: a nota de Serviços de Intermediação de Vendas e outra de Serviços de Informática.\n\nPortanto, o B2W Marketplace presta contas ao seu parceiro, com as notas fiscais de serviço, e o parceiro ao cliente final, emitindo e enviando a nota fiscal do produto.",
+      "title": "A emissão da nota fiscal dos pedidos é feita pela B2W?",
+      "id": 3,
+      "similarity": 0.0
+    },
+    {
+      "category": {
+        "name": "entrega"
+      },
+      "content": "Para itens dentro das dimensões dos Correios: você imprime a etiqueta gerada no Portal e cola na embalagem. Em seguida você precisa levar o pacote para a agência de Correios mais próxima. A partir desse momento, a B2W se responsabiliza pela entrega.\n\nPara itens fora das dimensões dos Correios: você é responsável por acompanhar todas as fases da entrega. É sua responsabilidade entregar o produto ao transportador (ou alinhar a coleta), informar o código de rastreio no Portal Parceiro e acompanhar a entrega até o cliente final.",
+      "title": "A B2W faz as entregas dos pedidos?",
+      "id": 5,
+      "similarity": 0.0
+    },
+    {
+      "category": {
+        "name": "informativo"
+      },
+      "content": "A Inscrição Estadual é fornecida pela Secretaria de Fazenda de cada estado para os contribuintes de ICMS (Imposto sobre Circulação de Mercadorias e prestação de Serviços). É um código numérico que identifica as transações e as comunica para os fiscos estaduais, ou seja, a SEFAZ (Secretaria da Fazenda) e a Receita Federal. É a partir deste registro que as empresas podem emitir notas fiscais para seus clientes.\n\nPara vender no marketplace é obrigatório que o parceiro emita nota fiscal na venda dos produtos para o cliente, por isso, o Sintegra e a Inscrição Estadual são tão importantes. Esta é uma garantia legal, que regulariza a operação, faz com que seja mais transparente e protege o processo de compra e venda.\n\nA Inscrição Estadual é facultativa apenas para MEIs.",
+      "title": "O que é Inscrição Estadual?",
+      "id": 11,
+      "similarity": 0.0
     }
   ],
   "category": [
