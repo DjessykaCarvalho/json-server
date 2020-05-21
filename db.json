@@ -2,15 +2,6 @@
   "faq": [
     {
       "category": {
-        "name": "parceria"
-      },
-      "content": "No B2W Marketplace não há taxa de setup, nem mensalidade. Aqui você só é cobrado pelas vendas aprovadas. A taxa de comissão é fixa em 16% sobre o valor total da venda (valor dos produtos + valor do frete). Todos os valores são acompanhados por um extrato no portal.",
-      "title": "Quanto custa a parceria com o B2W Marketplace?",
-      "id": 1,
-      "similarity": null
-    },
-    {
-      "category": {
         "name": "recebimento"
       },
       "content": "Chamamos de “repasse” o valor a receber pelas suas vendas, descontando a comissão de 16% e possíveis estornos (SAC). O pagamento é feito quinzenalmente de acordo com a regra abaixo:\n\n- Pedidos entregues ao transportador entre os dias 01 e 15: são pagos no primeiro dia do mês seguinte (ou próximo dia útil)\n- Pedidos entregues ao transportador entre os dias 16 e 31: são pagos no dia 16 do mês seguinte (ou próximo dia útil)",
